@@ -1,6 +1,6 @@
 /vendor/
-!/web/themes/custom/mortenson/templates/*
 !/web/modules/custom/mortenson_components/*
+!/web/themes/custom/mortenson/templates/*
 /web
 /drush
 .idea
