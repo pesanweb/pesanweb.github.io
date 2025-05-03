@@ -5,7 +5,8 @@
       <li><a href="/blog">Blog</a></li>
       <li><a href="/work">Work</a></li>
       <li><a href="/gallery">Gallery</a></li>
-      <li><a href="mailto:samuel@mortenson.coffee">Contact</a></li>
+      <li><a href="/info-aktivitas-masjid">Gallery Masjid</a></li>
+      <li><a href="mailto:andy@propertysyariah.biz.id">Contact</a></li>
     </ul>
     <div class="mc-footer__copyright">©{{ 'now'|date('Y') }} Andy Yulianto</div>
     <a class="mc-footer__rss" href="/feed.xml">
