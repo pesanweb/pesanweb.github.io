@@ -1,0 +1,64 @@
+uuid:
+  - value: df4b3fc3-6c27-444f-bbe5-164edc47076f
+langcode:
+  - value: en
+type:
+  - target_id: aktivitas_masjid
+    target_type: node_type
+    target_uuid: fb7a568c-9aa5-4f0e-b206-6a1ed669da10
+revision_timestamp:
+  - value: '2025-02-12T11:30:05+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  - target_type: user
+    target_uuid: 30bffdc0-96b3-4656-9078-3f8113359c60
+revision_log: {  }
+status:
+  - value: true
+uid:
+  - target_type: user
+    target_uuid: 30bffdc0-96b3-4656-9078-3f8113359c60
+title:
+  - value: 'Lingkungan Masjid Baiturrahim dan Rumah untuk Ibadah '
+created:
+  - value: '2025-02-12T11:29:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  - value: '2025-02-12T11:37:57+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  - value: false
+sticky:
+  - value: false
+default_langcode:
+  - value: true
+revision_translation_affected:
+  - value: true
+path:
+  - alias: ''
+    pid: null
+    langcode: en
+body:
+  - value: "<p>Kita semua tentu ingin memiliki rumah yang tidak hanya nyaman dan aman, tetapi juga membawa berkah bagi keluarga. Nah, konsep lingkungan Islami dalam properti bisa menjadi pilihan yang tepat untuk mewujudkan impian tersebut.</p><h2>Lingkungan Islami</h2><p>Lingkungan Islami adalah lingkungan perumahan yang dirancang dan dibangun dengan memperhatikan nilai-nilai dan prinsip-prinsip Islam. Tujuannya adalah untuk menciptakan suasana yang kondusif bagi keluarga muslim untuk menjalankan kehidupan yang sesuai dengan ajaran agama.</p><p>Tersedia masjid atau mushola yang mudah diakses oleh seluruh warga perumahan. Kita semua tentu ingin beribadah dengan khusyuk dan nyaman. Salah satu cara untuk mewujudkan hal tersebut adalah dengan memiliki fasilitas ibadah yang memadai, bahkan lebih mewah dari yang kita miliki di rumah.<br>Fasilitas ibadah yang mewah tidak harus berarti mewah dalam artian materi. Lebih dari itu, fasilitas ibadah yang mewah adalah fasilitas yang mampu memberikan kenyamanan, ketenangan, dan kekhusyukan bagi para penggunanya.</p><h2>Ciri-ciri Fasilitas Ibadah yang Mewah:</h2><p>Desain interior dan eksterior fasilitas ibadah yang indah dan menarik dapat menciptakan suasana yang nyaman dan menenangkan. Fasilitas ibadah yang selalu bersih dan rapi akan membuat kita betah dan nyaman dalam beribadah.</p><p>Tersedia fasilitas yang lengkap, seperti tempat wudhu yang bersih, ruang salat yang luas dan nyaman, perpustakaan dengan koleksi buku-buku agama, serta ruang serbaguna untuk kegiatan keagamaan. Pencahayaan dan ventilasi yang baik akan membuat fasilitas ibadah terasa nyaman dan tidak pengap.</p><p>Fasilitas ibadah yang mudah diakses oleh semua orang, termasuk lansia dan penyandang disabilitas, akan membuat semua orang merasa nyaman dan diterima. Fasilitas ibadah yang nyaman dan tenang akan membantu kita lebih khusyuk dalam beribadah.</p><p>Mendorong Semangat Beribadah: Fasilitas ibadah yang indah dan nyaman akan mendorong kita untuk lebih semangat dalam beribadah. Fasilitas ibadah yang mewah dapat menjadi daya tarik bagi masyarakat untuk datang dan beribadah.</p><p>Contoh Masjid dengan desain arsitektur yang megah dan indah.</p><p>'</p>"
+    format: full_html
+    summary: ''
+field_image:
+  - alt: 'inilah Masjid Baiturrahim Tenjowaringin Tasikmalaya'
+    title: ''
+    width: 910
+    height: 1213
+    target_type: file
+    target_uuid: 569a2b3f-6d0e-4cd1-8d0e-8a787ab93ff1
+field_subtitle:
+  - value: ibadah-sholat
+  - value: sosial-masyarakat
+  - value: pendidikan-ibadah
+field_tags:
+  - target_type: taxonomy_term
+    target_uuid: 6b468315-2516-4431-b5d1-c4b384d0cd2f
+  - target_type: taxonomy_term
+    target_uuid: 3e33c9fc-9f3e-4f45-8708-0596fa2a62ee
+  - target_type: taxonomy_term
+    target_uuid: 715724d7-ce11-4c05-ad88-7dd63daf87f8
+  - target_type: taxonomy_term
+    target_uuid: 0fc32cb7-38ee-4a62-b5e2-6b0b80e77358

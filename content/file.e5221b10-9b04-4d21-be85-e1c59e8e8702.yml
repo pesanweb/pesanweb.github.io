@@ -1,0 +1,23 @@
+uuid:
+  - value: e5221b10-9b04-4d21-be85-e1c59e8e8702
+langcode:
+  - value: en
+uid:
+  - target_type: user
+    target_uuid: 30bffdc0-96b3-4656-9078-3f8113359c60
+filename:
+  - value: risk.jpg
+uri:
+  - value: 'public://inline-images/risk.jpg'
+filemime:
+  - value: image/jpeg
+filesize:
+  - value: 32768
+status:
+  - value: true
+created:
+  - value: '2025-02-11T10:41:57+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  - value: '2025-02-11T10:42:33+00:00'
+    format: 'Y-m-d\TH:i:sP'

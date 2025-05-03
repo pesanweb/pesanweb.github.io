@@ -1,0 +1,23 @@
+uuid:
+  - value: 31115fb2-0b62-47c0-bdab-cd82b72d03a8
+langcode:
+  - value: en
+uid:
+  - target_type: user
+    target_uuid: 30bffdc0-96b3-4656-9078-3f8113359c60
+filename:
+  - value: quba2.jpg
+uri:
+  - value: 'public://gallery/quba2.jpg'
+filemime:
+  - value: image/jpeg
+filesize:
+  - value: 261305
+status:
+  - value: true
+created:
+  - value: '2025-02-13T09:24:10+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  - value: '2025-02-13T09:26:40+00:00'
+    format: 'Y-m-d\TH:i:sP'

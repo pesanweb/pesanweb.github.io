@@ -1,0 +1,61 @@
+uuid: bc20e10b-5402-4ce3-8970-c8a26fad8be2
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.node.aktivitas_masjid.body
+    - field.field.node.aktivitas_masjid.field_image
+    - field.field.node.aktivitas_masjid.field_subtitle
+    - field.field.node.aktivitas_masjid.field_tags
+    - image.style.gallery_full
+    - node.type.aktivitas_masjid
+  module:
+    - image
+    - text
+    - user
+id: node.aktivitas_masjid.default
+targetEntityType: node
+bundle: aktivitas_masjid
+mode: default
+content:
+  body:
+    type: text_default
+    label: hidden
+    settings: {  }
+    third_party_settings: {  }
+    weight: 101
+    region: content
+  field_image:
+    type: image
+    label: hidden
+    settings:
+      image_link: content
+      image_style: gallery_full
+      image_loading:
+        attribute: lazy
+    third_party_settings: {  }
+    weight: 1
+    region: content
+  field_subtitle:
+    type: string
+    label: hidden
+    settings:
+      link_to_entity: false
+    third_party_settings: {  }
+    weight: 104
+    region: content
+  field_tags:
+    type: entity_reference_entity_view
+    label: above
+    settings:
+      view_mode: full
+      link: false
+    third_party_settings: {  }
+    weight: 2
+    region: content
+  links:
+    settings: {  }
+    third_party_settings: {  }
+    weight: 100
+    region: content
+hidden: {  }

@@ -1,0 +1,72 @@
+uuid:
+  - value: b1323e1c-102b-4594-b620-3beca0af5f00
+langcode:
+  - value: en
+type:
+  - target_id: aktivitas_masjid
+    target_type: node_type
+    target_uuid: fb7a568c-9aa5-4f0e-b206-6a1ed669da10
+revision_timestamp:
+  - value: '2025-02-13T09:24:04+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  - target_type: user
+    target_uuid: 30bffdc0-96b3-4656-9078-3f8113359c60
+revision_log: {  }
+status:
+  - value: true
+uid:
+  - target_type: user
+    target_uuid: 30bffdc0-96b3-4656-9078-3f8113359c60
+title:
+  - value: 'Pusat Komunitas Muslim Quba Komunitas Muslim'
+created:
+  - value: '2025-02-13T09:13:57+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  - value: '2025-02-13T09:26:40+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  - value: false
+sticky:
+  - value: false
+default_langcode:
+  - value: true
+revision_translation_affected:
+  - value: true
+path:
+  - alias: ''
+    pid: null
+    langcode: en
+body:
+  - value: "<p>asjid adalah rumah Allah, tempat kita beribadah, mendekatkan diri kepada-Nya, dan mempererat tali silaturahmi. Namun, masjid memiliki peran yang jauh lebih besar dari sekadar tempat salat? Dari zaman Nabi Ibrahim AS membangun Ka'bah di Mekah, masjid telah menjadi jantung komunitas Muslim di seluruh dunia. Mekah adalah kota suci bagi umat Islam. Di sanalah terdapat Ka'bah, bangunan berbentuk kubus yang menjadi kiblat salat seluruh umat Islam. Ka'bah dibangun oleh Nabi Ibrahim AS dan putranya, Nabi Ismail AS, sebagai simbol tauhid dan penyembahan kepada Allah SWT.</p><p>Masjid Nabawi: Pusat Ilmu dan Peradaban di Madinah</p><p>Setelah hijrah ke Madinah, Nabi Muhammad SAW membangun Masjid Nabawi. Masjid ini tidak hanya digunakan untuk salat, tetapi juga sebagai pusat pendidikan, tempat menerima tamu, tempat musyawarah, dan bahkan tempat pengadilan. Masjid Nabawi menjadi pusat peradaban Islam di Madinah. Dari masjid inilah ilmu pengetahuan, nilai-nilai moral, dan ajaran-ajaran Islam disebarkan ke seluruh dunia.</p><p>Di Indonesia, masjid memiliki peran yang sangat penting dalam kehidupan masyarakat Muslim. Masjid tidak hanya digunakan untuk salat, tetapi juga sebagai tempat pengajian, tempat belajar Al-Qur'an, tempat musyawarah, dan bahkan tempat berlindung saat terjadi bencana alam.</p><p>Masjid-masjid di Indonesia juga memiliki arsitektur yang beragam, mencerminkan kekayaan budaya dan tradisi masyarakat setempat. Ada masjid dengan arsitektur tradisional Jawa, Minangkabau, Melayu, dan lain-lain.</p><p>Masjid sebagai Pusat Komunitas Modern</p><p>Di era modern, masjid terus beradaptasi dengan perkembangan zaman. Banyak masjid yang dilengkapi dengan fasilitas-fasilitas modern, seperti internet, perpustakaan, ruang pertemuan, dan lain-lain. Masjid juga semakin aktif dalam kegiatan sosial, seperti membantu fakir miskin, memberikan beasiswa, mengadakan pelatihan keterampilan, dan lain-lain.</p><p>Masji Quba arah utara dibuat serambi untuk tempat sembahyang yang bertiang pohon kurma, beratap datar dari pelepah dan daun kurma, bercampurkan tanah liat. Di tengah-tengah ruang terbuka dalam masjid yang kemudian biasa disebut sahn, terdapat sebuah sumur tempat wudhu, mengambil air sembahyang.</p><p>Masjid adalah pusat komunitas Muslim dari zaman ke zaman. Dari Mekah hingga Madinah, dari Indonesia hingga negara-negara lain, masjid memiliki peran yang sangat penting dalam kehidupan umat Islam. Masjid bukan hanya tempat ibadah, tetapi juga pusat pendidikan, sosial, budaya, dan bahkan ekonomi. Masjid adalah tempat di mana umat Islam dapat berkumpul, belajar, berdiskusi, dan mempererat tali silaturahmi.</p><p>Sumber: <a href=\"https://ramadan.kompasiana.com/asitasuryanto/6608087cde948f29ad7274f2/masjid-quba-masjid-yang-dibangun-pertama-oleh-nabi-muhammad?page=3\">kompasiana</a></p>"
+    format: full_html
+    summary: ''
+field_image:
+  - alt: 'Inilah Masjid Quba, Masjid yang Dibangun Pertama oleh Nabi Muhammad'
+    title: ''
+    width: 555
+    height: 740
+    target_type: file
+    target_uuid: 2e4fedda-bcce-443a-b10d-cc209a673568
+  - alt: 'Asal Masjid Quba, Masjid Pertama Nabi Muhammad'
+    title: ''
+    width: 555
+    height: 929
+    target_type: file
+    target_uuid: 31115fb2-0b62-47c0-bdab-cd82b72d03a8
+field_subtitle:
+  - value: komunitas
+  - value: sosial
+  - value: pendidikan
+field_tags:
+  - target_type: taxonomy_term
+    target_uuid: 90838e56-f0c8-41bc-abfa-db725d111c78
+  - target_type: taxonomy_term
+    target_uuid: 04ac4a76-19b1-415c-88c6-99e34163dd27
+  - target_type: taxonomy_term
+    target_uuid: 58f71fcd-66ed-43eb-944f-a4792fc2d06b
+  - target_type: taxonomy_term
+    target_uuid: 2a7672da-0bc1-41ec-a757-c4d22be2d08d
+  - target_type: taxonomy_term
+    target_uuid: 9d639e8f-50a7-4ba7-a5a7-f46bc258377f

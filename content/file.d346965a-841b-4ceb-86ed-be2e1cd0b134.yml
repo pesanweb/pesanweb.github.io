@@ -1,0 +1,23 @@
+uuid:
+  - value: d346965a-841b-4ceb-86ed-be2e1cd0b134
+langcode:
+  - value: en
+uid:
+  - target_type: user
+    target_uuid: 30bffdc0-96b3-4656-9078-3f8113359c60
+filename:
+  - value: desain-masjid-negara-di-ikndok-kementerian-pupr-3_169.jpeg
+uri:
+  - value: 'public://default_images/desain-masjid-negara-di-ikndok-kementerian-pupr-3_169.jpeg'
+filemime:
+  - value: image/jpeg
+filesize:
+  - value: 97673
+status:
+  - value: true
+created:
+  - value: '2025-02-12T10:21:11+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  - value: '2025-02-12T10:22:22+00:00'
+    format: 'Y-m-d\TH:i:sP'

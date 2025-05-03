@@ -1,0 +1,8 @@
+/vendor/
+!/web/themes/custom/mortenson/templates/*
+!/web/modules/custom/mortenson_components/*
+/web
+/drush
+.idea
+/.editorconfig
+/.gitattributes

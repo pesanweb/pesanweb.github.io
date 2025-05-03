@@ -1,0 +1,22 @@
+uuid: 4f0ed127-ce94-46fc-83f2-8dfc49ad0017
+langcode: en
+status: true
+dependencies:
+  module:
+    - node
+id: aktivitas_masjid
+label: 'aktivitas Masjid'
+type: 'canonical_entities:node'
+pattern: '/aktivitas-masjid/[node:title]'
+selection_criteria:
+  8e4b3f9e-eb7a-447b-a86a-4c0a7e7cc352:
+    id: 'entity_bundle:node'
+    negate: false
+    uuid: 8e4b3f9e-eb7a-447b-a86a-4c0a7e7cc352
+    context_mapping:
+      node: node
+    bundles:
+      aktivitas_masjid: aktivitas_masjid
+selection_logic: and
+weight: -5
+relationships: {  }

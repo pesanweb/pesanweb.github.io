@@ -1,0 +1,23 @@
+uuid:
+  - value: 42ad22a1-33d8-42f9-bfc1-156f85c62c31
+langcode:
+  - value: en
+uid:
+  - target_type: user
+    target_uuid: 30bffdc0-96b3-4656-9078-3f8113359c60
+filename:
+  - value: Great.Mosque.of_.Xian_.original.6209.jpg
+uri:
+  - value: 'public://gallery/Great.Mosque.of_.Xian_.original.6209.jpg'
+filemime:
+  - value: image/jpeg
+filesize:
+  - value: 548516
+status:
+  - value: true
+created:
+  - value: '2025-02-12T10:25:23+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  - value: '2025-02-12T10:30:10+00:00'
+    format: 'Y-m-d\TH:i:sP'

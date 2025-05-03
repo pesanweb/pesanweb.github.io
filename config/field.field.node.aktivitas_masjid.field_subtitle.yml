@@ -1,0 +1,25 @@
+uuid: 2fab33fe-de55-4a87-a2f7-84cebb7f72aa
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_subtitle
+    - node.type.aktivitas_masjid
+id: node.aktivitas_masjid.field_subtitle
+field_name: field_subtitle
+entity_type: node
+bundle: aktivitas_masjid
+label: 'Nama Seo'
+description: ''
+required: false
+translatable: false
+default_value:
+  -
+    value: komunitas
+  -
+    value: sosial
+  -
+    value: pendidikan
+default_value_callback: ''
+settings: {  }
+field_type: string

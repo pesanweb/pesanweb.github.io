@@ -1,0 +1,68 @@
+uuid:
+  - value: a5d1bd3a-7131-4c63-b47b-f4c9841b5006
+langcode:
+  - value: en
+type:
+  - target_id: aktivitas_masjid
+    target_type: node_type
+    target_uuid: fb7a568c-9aa5-4f0e-b206-6a1ed669da10
+revision_timestamp:
+  - value: '2025-02-12T11:46:35+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  - target_type: user
+    target_uuid: 30bffdc0-96b3-4656-9078-3f8113359c60
+revision_log: {  }
+status:
+  - value: true
+uid:
+  - target_type: user
+    target_uuid: 30bffdc0-96b3-4656-9078-3f8113359c60
+title:
+  - value: 'Masjid Agung Kediri Juga Berfungsi sebagai Pusat Pendidikan Agama'
+created:
+  - value: '2025-02-12T11:38:06+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  - value: '2025-02-12T12:53:14+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  - value: false
+sticky:
+  - value: false
+default_langcode:
+  - value: true
+revision_translation_affected:
+  - value: true
+path:
+  - alias: ''
+    pid: null
+    langcode: en
+body:
+  - value: "<p>Masjid Agung Kota Kediri yang saat ini memang bukanlah bangunan masjid pertama, karena sebelumnya sudah ada Masjid Agung dengan kubah besar tanpa menara yang berdiri sejak abad ke-17. Bangunan masjid yang sekarang ini adalah bangunan hasil renovasi pada tahun 2006. Bangunan baru ini memiliki tiga lantai dan memadukan arsitektur timur tengah dan nusantara.Masjid ini memiliki satu bangunan menara yang menjulang tinggi, dan ditempatkan disisi tenggara pada bangunan masjidnya.&nbsp;<br><br>Keunikan masjid ini bisa dilihat dari bentuk atapnya. Bentuknya yang menyilang menghasilkan bentuk segi delapan dengan kubah dibagian paling atasnya. Masjid Agung Kota Kediri terletak di lokasi yang sangat strategis yaitu di Jln. Panglima Besar Soedirman No. 160, Kampung / Kelurahan Dalem, Kecamatan Kota Kediri, Kota Kediri, Provinsi Jawa Timur.</p><p>Pusat Pendidikan: Masjid juga berfungsi sebagai pusat pendidikan agama. Di masjid, umat Islam dapat belajar tentang Al-Qur'an, hadis, fikih, dan ilmu-ilmu keislaman lainnya. Begitulah seharusnya masjid berfungsi untuk tempat pendidikan bagi seluruh umat Islam.</p><p>sumber:&nbsp;https://commons.wikimedia.org/wiki/File:Masjid_Agung_Kota_Kediri_tampak_depan.jpg</p>"
+    format: full_html
+    summary: ''
+field_image:
+  - alt: 'inilah Masjid Agung Kota Kediri tampak depan Wikimedia'
+    title: ''
+    width: 1024
+    height: 768
+    target_type: file
+    target_uuid: 65f9e5e7-d30b-417e-b0a8-dff2f6efd7ec
+field_subtitle:
+  - value: komunitas-sholat
+  - value: sosial-agama
+  - value: pendidikan-ilmu-agama
+field_tags:
+  - target_type: taxonomy_term
+    target_uuid: 7beabe72-4bad-476f-8e3f-e3fd18b118a6
+  - target_type: taxonomy_term
+    target_uuid: e5415ef0-5bb3-4368-9737-f252fff16141
+  - target_type: taxonomy_term
+    target_uuid: 04ac4a76-19b1-415c-88c6-99e34163dd27
+  - target_type: taxonomy_term
+    target_uuid: 59999fb8-70ce-475a-9e86-6d89c060e254
+  - target_type: taxonomy_term
+    target_uuid: 703624e2-7cf6-4795-a801-77fbc5314f1e
+  - target_type: taxonomy_term
+    target_uuid: 9d639e8f-50a7-4ba7-a5a7-f46bc258377f

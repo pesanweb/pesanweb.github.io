@@ -1,0 +1,22 @@
+uuid: b22b9262-0950-4d9f-9582-73b53f3ee9ab
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: sL588ui1E_8-2c_UupwyYxcqX2OVyMFp3HTLbbFqvPc
+id: global
+label: Global
+tags:
+  canonical_url: '[current-page:url]'
+  description: 'The homepage for Andy Yulianto - you can call me Pak Andy.'
+  keywords: '[node:field_tags]'
+  og_image: '[node:field_image:social:url]'
+  og_site_name: '[site:name]'
+  og_title: '[current-page:title]'
+  og_url: '[current-page:url:absolute]'
+  shortcut_icon: '/system/temporary?file=favicon_3.png'
+  title: '[current-page:title] | [site:name]'
+  twitter_cards_creator: '@cintaulamaihsan'
+  twitter_cards_site: '@cintaulamaihsan'
+  twitter_cards_title: '[current-page:title]'
+  twitter_cards_type: summary

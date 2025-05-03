@@ -1,0 +1,11 @@
+uuid: fb7a568c-9aa5-4f0e-b206-6a1ed669da10
+langcode: en
+status: true
+dependencies: {  }
+name: 'Aktivitas Masjid'
+type: aktivitas_masjid
+description: null
+help: null
+new_revision: false
+preview_mode: 1
+display_submitted: false

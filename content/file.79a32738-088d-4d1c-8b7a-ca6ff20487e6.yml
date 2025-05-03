@@ -1,0 +1,23 @@
+uuid:
+  - value: 79a32738-088d-4d1c-8b7a-ca6ff20487e6
+langcode:
+  - value: en
+uid:
+  - target_type: user
+    target_uuid: 30bffdc0-96b3-4656-9078-3f8113359c60
+filename:
+  - value: new-home-construction-real-estate-property.jpg
+uri:
+  - value: 'public://inline-images/new-home-construction-real-estate-property.jpg'
+filemime:
+  - value: image/jpeg
+filesize:
+  - value: 82567
+status:
+  - value: true
+created:
+  - value: '2025-02-12T04:05:02+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  - value: '2025-02-12T04:07:35+00:00'
+    format: 'Y-m-d\TH:i:sP'

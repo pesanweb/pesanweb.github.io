@@ -1,0 +1,60 @@
+uuid: 2cfc43ec-cf91-4e4c-a302-c489c81a7fb9
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.node.gallery_item.body
+    - field.field.node.gallery_item.field_image
+    - field.field.node.gallery_item.field_subtitle
+    - field.field.node.gallery_item.field_tags
+    - image.style.gallery_full
+    - node.type.gallery_item
+  module:
+    - image
+    - text
+    - user
+id: node.gallery_item.default
+targetEntityType: node
+bundle: gallery_item
+mode: default
+content:
+  body:
+    type: text_default
+    label: hidden
+    settings: {  }
+    third_party_settings: {  }
+    weight: 101
+    region: content
+  field_image:
+    type: image
+    label: above
+    settings:
+      image_link: content
+      image_style: gallery_full
+      image_loading:
+        attribute: lazy
+    third_party_settings: {  }
+    weight: 103
+    region: content
+  field_subtitle:
+    type: string
+    label: above
+    settings:
+      link_to_entity: false
+    third_party_settings: {  }
+    weight: 104
+    region: content
+  field_tags:
+    type: entity_reference_label
+    label: above
+    settings:
+      link: true
+    third_party_settings: {  }
+    weight: 102
+    region: content
+  links:
+    settings: {  }
+    third_party_settings: {  }
+    weight: 100
+    region: content
+hidden: {  }

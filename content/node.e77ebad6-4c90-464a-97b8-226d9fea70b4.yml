@@ -1,0 +1,76 @@
+uuid:
+  - value: e77ebad6-4c90-464a-97b8-226d9fea70b4
+langcode:
+  - value: en
+type:
+  - target_id: aktivitas_masjid
+    target_type: node_type
+    target_uuid: fb7a568c-9aa5-4f0e-b206-6a1ed669da10
+revision_timestamp:
+  - value: '2025-02-12T10:25:23+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  - target_type: user
+    target_uuid: 30bffdc0-96b3-4656-9078-3f8113359c60
+revision_log: {  }
+status:
+  - value: true
+uid:
+  - target_type: user
+    target_uuid: 30bffdc0-96b3-4656-9078-3f8113359c60
+title:
+  - value: "Melakukan Sholat di Masjid Raya Xi'an, Masjid Tertua di China yang Dibangun Saat Dinasti Tang Tahun 742"
+created:
+  - value: '2025-02-12T10:23:01+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  - value: '2025-02-12T10:31:37+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  - value: false
+sticky:
+  - value: false
+default_langcode:
+  - value: true
+revision_translation_affected:
+  - value: true
+path:
+  - alias: ''
+    pid: null
+    langcode: en
+body:
+  - value: "<p><strong>Tempat Ibadah</strong></p><p>Fungsi utama masjid adalah sebagai tempat untuk melaksanakan salat berjamaah, membaca Al-Qur'an, berzikir, dan berdoa kepada Allah SWT.</p><p>Salah satu masjid tertua dan terbesar di China adalah Masjid Raya Xi'an.</p><p>Masjid Xi'an berada di Kota Xi'an, Provinsi Shaanxi, China, yang dibangun tahun 742 masehi.</p><p>Kota Xi'an di Provinsi Shaanxi berjarak sekitar 1.073 km dari Beijing, ibukota China atau Tiongkok.</p><p>&nbsp;</p><p>sumber <a href=\"https://batam.tribunnews.com/2020/05/21/mengenal-masjid-raya-xian-masjid-tertua-di-china-yang-dibangun-saat-dinasti-tang-tahun-742\">berita tribun</a></p>"
+    format: full_html
+    summary: ''
+field_image:
+  - alt: "Inilah Masjid Raya Xi'an, Masjid Tertua di China yang Dibangun Saat Dinasti Tang Tahun 742"
+    title: ''
+    width: 1875
+    height: 1250
+    target_type: file
+    target_uuid: 42ad22a1-33d8-42f9-bfc1-156f85c62c31
+field_subtitle:
+  - value: sholat
+  - value: ibadah-sosial
+  - value: pendidikan
+field_tags:
+  - target_type: taxonomy_term
+    target_uuid: 74d5729e-076f-46a8-85d2-4c3ba80b6885
+  - target_type: taxonomy_term
+    target_uuid: 2e9fa7ed-e655-467b-aed0-477b098f8738
+  - target_type: taxonomy_term
+    target_uuid: 52f19029-8686-4a59-8ffa-78e81ced88be
+  - target_type: taxonomy_term
+    target_uuid: 0fc32cb7-38ee-4a62-b5e2-6b0b80e77358
+  - target_type: taxonomy_term
+    target_uuid: 7beabe72-4bad-476f-8e3f-e3fd18b118a6
+  - target_type: taxonomy_term
+    target_uuid: e5415ef0-5bb3-4368-9737-f252fff16141
+  - target_type: taxonomy_term
+    target_uuid: 04ac4a76-19b1-415c-88c6-99e34163dd27
+  - target_type: taxonomy_term
+    target_uuid: 59999fb8-70ce-475a-9e86-6d89c060e254
+  - target_type: taxonomy_term
+    target_uuid: 703624e2-7cf6-4795-a801-77fbc5314f1e
+  - target_type: taxonomy_term
+    target_uuid: 9d639e8f-50a7-4ba7-a5a7-f46bc258377f

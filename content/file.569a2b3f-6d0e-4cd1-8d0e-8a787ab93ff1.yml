@@ -1,0 +1,23 @@
+uuid:
+  - value: 569a2b3f-6d0e-4cd1-8d0e-8a787ab93ff1
+langcode:
+  - value: en
+uid:
+  - target_type: user
+    target_uuid: 30bffdc0-96b3-4656-9078-3f8113359c60
+filename:
+  - value: masjid-raya-baiturrahman-islam-moslem-architecture.jpg
+uri:
+  - value: 'public://gallery/masjid-raya-baiturrahman-islam-moslem-architecture.jpg'
+filemime:
+  - value: image/jpeg
+filesize:
+  - value: 170854
+status:
+  - value: true
+created:
+  - value: '2025-02-12T11:30:05+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  - value: '2025-02-12T11:37:57+00:00'
+    format: 'Y-m-d\TH:i:sP'

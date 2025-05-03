@@ -1,0 +1,59 @@
+uuid:
+  - value: 505498dd-6d1d-4be8-9f20-b172e51201e5
+langcode:
+  - value: en
+type:
+  - target_id: blog
+    target_type: node_type
+    target_uuid: a90c00e7-fd49-42a6-8cdb-e99ec16f7742
+revision_timestamp:
+  - value: '2025-02-12T03:57:34+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  - target_type: user
+    target_uuid: 30bffdc0-96b3-4656-9078-3f8113359c60
+revision_log: {  }
+status:
+  - value: true
+uid:
+  - target_type: user
+    target_uuid: 30bffdc0-96b3-4656-9078-3f8113359c60
+title:
+  - value: 'Rumah Impian yang Berkah'
+created:
+  - value: '2025-02-12T03:51:45+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  - value: '2025-02-12T04:12:05+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  - value: true
+sticky:
+  - value: false
+default_langcode:
+  - value: true
+revision_translation_affected:
+  - value: true
+path:
+  - alias: /blog/rumah-properti-aman-berkah
+    langcode: en
+body:
+  - value: '<p>Pernahkah kita membayangkan punya rumah impian? Rumah yang nyaman, indah, dan penuh berkah. Nah, dalam properti syariah, rumah impian itu bukan hanya sekadar tempat tinggal, tapi juga adanya keberkahan.</p><p>Dalam properti syariah, kita membeli rumah dengan cara yang halal, yaitu sesuai dengan ajaran agama Islam. Tidak ada riba atau bunga yang haram. Jadi, uang yang kita gunakan untuk membeli rumah itu diselimuti keberkahan dan membawa kebaikan.</p><p>Properti syariah juga menjunjung tinggi keadilan dalam berbisnis. Baik penjual maupun pembeli, semuanya harus jujur dan transparan. Tidak boleh ada pihak yang dirugikan. Dengan begitu, bisnis properti syariah menjadi lebih berkah dan membawa kebaikan bagi semua orang.</p><p>Biasanya, perumahan syariah dibangun di lingkungan yang islami. Ada masjid atau mushola, tempat anak-anak belajar mengaji, dan tetangga yang saling membantu. Lingkungan yang islami ini tentu saja akan membuat kita semakin nyaman dan bahagia tinggal di rumah impian kita.</p><p>Investasi yang Aman</p><img src="/sites/default/files/inline-images/new-home-construction-real-estate-property.jpg" data-entity-uuid="79a32738-088d-4d1c-8b7a-ca6ff20487e6" data-entity-type="file" alt="rumah nyaman dan aman" width="910" height="603"><p>Selain untuk tempat tinggal, properti juga bisa menjadi investasi yang aman. Harga properti biasanya akan naik dari tahun ke tahun. Jadi, jika kita punya rumah atau sertifikat tanah, kita akan mendapatkan keuntungan di masa depan.</p><h2>Yuk, Kita Wujudkan Rumah Impian yang Berkah!</h2><p>Nah, teman-teman, itulah beberapa simbol penting dalam bisnis properti syariah. Dengan memahami simbol-simbol ini, kita bisa semakin termotivasi untuk memiliki rumah impian yang berkah dan membawa kebaikan bagi kita dan keluarga.</p><p>Semoga penjelasan ini bermanfaat untuk kita semua. Jangan lupa untuk terus belajar dan meraih cita-cita setiap insan. Siapa tahu, nanti ada di antara kita semua yang menjadi pengusaha properti syariah yang sukses!</p>'
+    format: full_html
+    summary: 'Pernahkah kita membayangkan punya rumah impian? Rumah yang nyaman, indah, dan penuh berkah. Nah, dalam properti syariah, rumah impian itu bukan hanya sekadar tempat tinggal, tapi juga символ keberkahan.'
+field_image: {  }
+field_subtitle:
+  - value: bisnis-impian
+field_tags:
+  - target_type: taxonomy_term
+    target_uuid: 25a09f92-db51-4fbd-a181-87a2d5595756
+  - target_type: taxonomy_term
+    target_uuid: 2f073836-a931-4719-9316-7543504c4ed7
+  - target_type: taxonomy_term
+    target_uuid: 9104acd1-8016-41c7-bba2-d7a80a519634
+  - target_type: taxonomy_term
+    target_uuid: 78bd04dc-2dd3-494b-b60b-595abe4e8a19
+  - target_type: taxonomy_term
+    target_uuid: 2dc4d10a-4860-4216-9ed4-60bdb710e2a6
+  - target_type: taxonomy_term
+    target_uuid: b23c3112-564c-4bb0-a507-5b49a14f7f54

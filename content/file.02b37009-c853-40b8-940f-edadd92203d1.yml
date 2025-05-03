@@ -1,0 +1,23 @@
+uuid:
+  - value: 02b37009-c853-40b8-940f-edadd92203d1
+langcode:
+  - value: en
+uid:
+  - target_type: user
+    target_uuid: 30bffdc0-96b3-4656-9078-3f8113359c60
+filename:
+  - value: sholat-arah-kiblat-di-luar-rumah_0.jpg
+uri:
+  - value: 'public://inline-images/sholat-arah-kiblat-di-luar-rumah_0.jpg'
+filemime:
+  - value: image/jpeg
+filesize:
+  - value: 49720
+status:
+  - value: true
+created:
+  - value: '2025-02-12T03:56:21+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  - value: '2025-02-12T03:57:34+00:00'
+    format: 'Y-m-d\TH:i:sP'

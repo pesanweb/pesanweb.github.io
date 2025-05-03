@@ -1,0 +1,66 @@
+uuid:
+  - value: d537ce8d-d63a-44d6-aaf2-1d7599c316d8
+langcode:
+  - value: en
+type:
+  - target_id: aktivitas_masjid
+    target_type: node_type
+    target_uuid: fb7a568c-9aa5-4f0e-b206-6a1ed669da10
+revision_timestamp:
+  - value: '2025-02-13T00:38:46+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  - target_type: user
+    target_uuid: 30bffdc0-96b3-4656-9078-3f8113359c60
+revision_log: {  }
+status:
+  - value: true
+uid:
+  - target_type: user
+    target_uuid: 30bffdc0-96b3-4656-9078-3f8113359c60
+title:
+  - value: 'Kegiatan Sosial Masjid Kubah Emas'
+created:
+  - value: '2025-02-13T00:37:31+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  - value: '2025-02-13T00:44:18+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  - value: false
+sticky:
+  - value: false
+default_langcode:
+  - value: true
+revision_translation_affected:
+  - value: true
+path:
+  - alias: ''
+    pid: null
+    langcode: en
+body:
+  - value: '<h2>Pusat Kegiatan Sosial</h2><p>Masjid dapat menjadi tempat untuk mengadakan kegiatan sosial, seperti pengajian, seminar, diskusi, dan kegiatan-kegiatan lainnya yang bermanfaat bagi masyarakat.</p><h2>Arsitektur Masjid</h2><p id="yui_3_16_0_1_1738983602546_35259">Ruang utama masjid memiliki ukuran 45×57 meter, dapat menampung sebanyak 8.000 jamaah. Masjid ini memiliki 6 minaret berbentuk segi enam yang tingginya masing-masing 40 meter. 6 minaret ini dibalut granit abu-abu dari itali dengan ornamen yang melingkar. Pada puncak minaret terdapat kubah berlapis mozaik emas 24 karat.</p><p id="yui_3_16_0_1_1738983602546_35264">Kubah masjid ini mengacu kubah yang digunakan masjid-masjid Persia dan India. Lima kubah melambangkan rukun Islam, seluruhnya dibalut mozaik berlapis emas 24 karat yang materialnya diimpor dari Italia.</p><p>&nbsp;</p><p>sumber:&nbsp;https://www.flickr.com/photos/haffidze/3537173307/in/photostream/</p>'
+    format: full_html
+    summary: ''
+field_image:
+  - alt: 'inilah Masjid Kubah Emas Depok'
+    title: ''
+    width: 1024
+    height: 681
+    target_type: file
+    target_uuid: e8029bfd-7650-4cc5-acb7-c9d7b3d8f38b
+field_subtitle:
+  - value: ibadah-wajib
+  - value: sosial-wajib
+  - value: pendidikan-wajib
+field_tags:
+  - target_type: taxonomy_term
+    target_uuid: 7c445322-d80a-4abc-b3b1-6610c4839053
+  - target_type: taxonomy_term
+    target_uuid: 90838e56-f0c8-41bc-abfa-db725d111c78
+  - target_type: taxonomy_term
+    target_uuid: 04ac4a76-19b1-415c-88c6-99e34163dd27
+  - target_type: taxonomy_term
+    target_uuid: 58f71fcd-66ed-43eb-944f-a4792fc2d06b
+  - target_type: taxonomy_term
+    target_uuid: 703624e2-7cf6-4795-a801-77fbc5314f1e

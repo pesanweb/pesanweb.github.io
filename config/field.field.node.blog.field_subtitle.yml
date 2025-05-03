@@ -1,0 +1,21 @@
+uuid: 670b4c23-fa31-4788-a799-2256e2b0fab8
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_subtitle
+    - node.type.blog
+id: node.blog.field_subtitle
+field_name: field_subtitle
+entity_type: node
+bundle: blog
+label: 'Nama Tag'
+description: ''
+required: false
+translatable: false
+default_value:
+  -
+    value: keberkahan
+default_value_callback: ''
+settings: {  }
+field_type: string

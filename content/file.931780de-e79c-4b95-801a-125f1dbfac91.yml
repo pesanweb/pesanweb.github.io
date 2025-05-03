@@ -1,0 +1,23 @@
+uuid:
+  - value: 931780de-e79c-4b95-801a-125f1dbfac91
+langcode:
+  - value: en
+uid:
+  - target_type: user
+    target_uuid: 30bffdc0-96b3-4656-9078-3f8113359c60
+filename:
+  - value: masjid-raya-al-mashun-medan_169.jpeg
+uri:
+  - value: 'public://gallery/masjid-raya-al-mashun-medan_169.jpeg'
+filemime:
+  - value: image/jpeg
+filesize:
+  - value: 44225
+status:
+  - value: true
+created:
+  - value: '2025-05-03T10:07:38+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  - value: '2025-05-03T10:08:08+00:00'
+    format: 'Y-m-d\TH:i:sP'

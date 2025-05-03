@@ -1,0 +1,23 @@
+uuid:
+  - value: 65f9e5e7-d30b-417e-b0a8-dff2f6efd7ec
+langcode:
+  - value: en
+uid:
+  - target_type: user
+    target_uuid: 30bffdc0-96b3-4656-9078-3f8113359c60
+filename:
+  - value: Masjid_Agung_Kota_Kediri_tampak_depan.jpg
+uri:
+  - value: 'public://gallery/Masjid_Agung_Kota_Kediri_tampak_depan.jpg'
+filemime:
+  - value: image/jpeg
+filesize:
+  - value: 238370
+status:
+  - value: true
+created:
+  - value: '2025-02-12T11:46:35+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  - value: '2025-02-12T12:53:14+00:00'
+    format: 'Y-m-d\TH:i:sP'

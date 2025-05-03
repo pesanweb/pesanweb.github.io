@@ -1,0 +1,24 @@
+uuid: b8033482-1142-4d0c-a580-3cb001d180e8
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.body
+    - node.type.aktivitas_masjid
+  module:
+    - text
+id: node.aktivitas_masjid.body
+field_name: body
+entity_type: node
+bundle: aktivitas_masjid
+label: Body
+description: ''
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings:
+  display_summary: true
+  required_summary: false
+  allowed_formats: {  }
+field_type: text_with_summary

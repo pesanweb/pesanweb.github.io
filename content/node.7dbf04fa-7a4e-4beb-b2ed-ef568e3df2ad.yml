@@ -1,0 +1,63 @@
+uuid:
+  - value: 7dbf04fa-7a4e-4beb-b2ed-ef568e3df2ad
+langcode:
+  - value: en
+type:
+  - target_id: gallery_item
+    target_type: node_type
+    target_uuid: 5c22f1d1-b381-4548-847a-1dfe83d18e27
+revision_timestamp:
+  - value: '2024-05-25T10:22:39+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  - target_type: user
+    target_uuid: 30bffdc0-96b3-4656-9078-3f8113359c60
+revision_log: {  }
+status:
+  - value: true
+uid:
+  - target_type: user
+    target_uuid: 30bffdc0-96b3-4656-9078-3f8113359c60
+title:
+  - value: 'Belajar Property Syariah'
+created:
+  - value: '2020-02-01T03:00:40+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  - value: '2025-02-12T03:44:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  - value: true
+sticky:
+  - value: false
+default_langcode:
+  - value: true
+revision_translation_affected:
+  - value: true
+path:
+  - alias: /gallery/Tentang-Kami-Andy-Yulianto
+    langcode: en
+body:
+  - value: '<p>Ingin memiliki rumah idaman yang sesuai dengan syariah? Kami siap membantu Anda. Kami menawarkan berbagai pilihan properti syariah dengan akad yang jelas dan transparan. Kami akan menjelaskan secara detail sehingga Anda dapat memilih yang paling sesuai. Dengan kami, Anda tidak hanya mendapatkan properti, tetapi juga ketenangan hati.</p><p>Sebagai bagian komunitas pengembang properti syariah terpercaya, kami berkomitmen untuk memberikan produk terbaik dengan akad yang sesuai syariah. Kami akan membantu Anda memahami berbagai jenis akad seperti murabahah, musyarakah, dan lainnya. Dengan konsultasi yang mendalam, Anda dapat memilih properti yang sesuai dengan kebutuhan dan kemampuan finansial Anda.</p><p>Miliki rumah impian tanpa riba. Kami menawarkan berbagai pilihan properti syariah dengan akad yang jelas dan transparan. Anda dapat memiliki rumah idaman tanpa khawatir akan riba. Kami juga menyediakan konsultasi untuk membantu Anda memilih akad yang paling sesuai dengan kebutuhan Anda.</p><p><br>Hubungi WA:0895410944303</p>'
+    format: full_html
+    summary: 'Ingin memiliki rumah idaman yang sesuai dengan syariah? Kami siap membantu Anda. Kami menawarkan berbagai pilihan properti syariah dengan akad yang jelas dan transparan. Kami akan menjelaskan secara detail sehingga Anda dapat memilih yang paling sesuai. Dengan kami, Anda tidak hanya mendapatkan properti, tetapi juga ketenangan hati.'
+field_image:
+  - alt: 'Andy sedang aksi'
+    title: ''
+    width: 347
+    height: 622
+    target_type: file
+    target_uuid: 116998fe-c3aa-47e4-b48f-c6bc1c0dca75
+field_tags:
+  - target_type: taxonomy_term
+    target_uuid: 78bd04dc-2dd3-494b-b60b-595abe4e8a19
+  - target_type: taxonomy_term
+    target_uuid: 04069d10-74ba-4836-9ab1-12df4ff1c697
+  - target_type: taxonomy_term
+    target_uuid: ffdc7cae-218e-4544-99e7-2dadb52b7178
+  - target_type: taxonomy_term
+    target_uuid: 0c37a2b4-8006-4aa0-a9cb-ed71f1f390ce
+  - target_type: taxonomy_term
+    target_uuid: 48d92849-f55c-4c35-afc7-965829eb7e96
+  - target_type: taxonomy_term
+    target_uuid: 13b757e0-b7d9-491a-9610-55658d72259a

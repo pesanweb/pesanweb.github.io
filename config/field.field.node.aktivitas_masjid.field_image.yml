@@ -1,0 +1,38 @@
+uuid: 406749b9-54ee-4517-af09-c15057701360
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_image
+    - node.type.aktivitas_masjid
+  module:
+    - image
+id: node.aktivitas_masjid.field_image
+field_name: field_image
+entity_type: node
+bundle: aktivitas_masjid
+label: Image
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:file'
+  handler_settings: {  }
+  file_directory: gallery
+  file_extensions: 'png gif jpg jpeg'
+  max_filesize: ''
+  max_resolution: ''
+  min_resolution: ''
+  alt_field: true
+  alt_field_required: true
+  title_field: false
+  title_field_required: false
+  default_image:
+    uuid: d346965a-841b-4ceb-86ed-be2e1cd0b134
+    alt: '#SemakinOptimisMenjadiPemenangDiMasaKrisis'
+    title: ''
+    width: 650
+    height: 366
+field_type: image

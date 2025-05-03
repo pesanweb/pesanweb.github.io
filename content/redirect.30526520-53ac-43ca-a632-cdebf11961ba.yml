@@ -1,0 +1,23 @@
+uuid:
+  - value: 30526520-53ac-43ca-a632-cdebf11961ba
+hash:
+  - value: LInFpY5JbLDpLVIkz9GAALJhsmlDtMryendjFzaWMac
+type:
+  - value: redirect
+uid:
+  - target_type: user
+    target_uuid: 30bffdc0-96b3-4656-9078-3f8113359c60
+redirect_source:
+  - path: blog/ketika-keluar-rumah-dan-sholat-dalam-kendaraan
+    query: {  }
+redirect_redirect:
+  - uri: 'internal:/node/39'
+    title: null
+    options: {  }
+language:
+  - value: en
+status_code:
+  - value: 301
+created:
+  - value: '2025-02-12T04:07:35+00:00'
+    format: 'Y-m-d\TH:i:sP'
