@@ -2998,7 +2998,7 @@ display:
           exclude: false
           alter:
             alter_text: true
-            text: 'Samuel Mortenson'
+            text: 'Andy Yulianto'
             make_link: false
             path: ''
             absolute: false
