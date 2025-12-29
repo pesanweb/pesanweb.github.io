@@ -140,9 +140,7 @@
                             
       <li class="flex flex-wrap justify-between md:flex-nowrap w-full md:w-auto md:relative md:max-w-[375px] text-base xl:text-lg 2xl:text-xl font-medium rounded-md" data-level="1">
                   <a href="/daf" class="flex min-h-[44px] shrink-1 grow-1 basis-0 items-center gap-1 rounded-md p-2 duration-300 md:min-h-auto hover:md:bg-primary hover:md:text-primary-foreground focus:md:bg-primary focus:md:text-primary-foreground xl:px-3" data-level="1">
-            <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 256 256" width="32" height="32" fill="#000000" aria-hidden="true">
-      <path d="M140,180a12,12,0,1,1-12-12A12,12,0,0,1,140,180ZM128,72c-22.06,0-40,16.15-40,36v4a8,8,0,0,0,16,0v-4c0-11,10.77-20,24-20s24,9,24,20-10.77,20-24,20a8,8,0,0,0-8,8v8a8,8,0,0,0,16,0v-.72c18.24-3.35,32-17.9,32-35.28C168,88.15,150.06,72,128,72Zm104,56A104,104,0,1,1,128,24,104.11,104.11,0,0,1,232,128Zm-16,0a88,88,0,1,0-88,88A88.1,88.1,0,0,0,216,128Z"></path>
-    </svg> <span class="ui-icons-menu-text">daftar pertanyaan</span>
+            <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 256 256" width="32" height="32" fill="#000000" aria-hidden="true">...</svg> <span class="ui-icons-menu-text">daftar pertanyaan</span>
           </a>
               </li>
       </ul>
@@ -309,7 +307,7 @@
       <div id="block-77fedeec-9696-42d0-9be5-1599059bdb34">
   
     
-      <form class="webform-submission-form webform-submission-add-form webform-submission-contact-form-form webform-submission-contact-form-add-form webform-submission-contact-form-canvas_page-6-form webform-submission-contact-form-canvas_page-6-add-form webform-submission-contact-form-canvas-page-6-add-form js-webform-details-toggle webform-details-toggle" data-drupal-selector="webform-submission-contact-form-canvas-page-6-add-form" action="/contact" method="post" id="webform-submission-contact-form-canvas-page-6-add-form" accept-charset="UTF-8">
+      <form class="webform-submission-form webform-submission-add-form webform-submission-contact-form-form webform-submission-contact-form-add-form webform-submission-contact-form-canvas_page-6-form webform-submission-contact-form-canvas_page-6-add-form webform-submission-contact-form-canvas-page-6-add-form js-webform-details-toggle webform-details-toggle" data-drupal-selector="webform-submission-contact-form-canvas-page-6-add-form" action="https://script.google.com/macros/s/AKfycbw6cJV4Ao48zJ2bZHGKYQIpIi_L51aP5KR3y2Xdpoxqpr0YpAXictrjKie_qKlTjhxfcA/exec" method="post" id="webform-submission-contact-form-canvas-page-6-add-form" accept-charset="UTF-8" target="hidden_iframe" onsubmit="return onSubmitForm()">
   
   <div class="js-webform-type-textfield webform-type-textfield js-form-item form-item form-type-textfield js-form-type-textfield form-item-name js-form-item-name">
       <label for="edit-name" class="js-form-required form-required">Name</label>
@@ -358,6 +356,11 @@
 
   
 </form>
+
+<!-- hidden iframe + simple success/error notices for apps script POST -->
+<iframe name="hidden_iframe" id="hidden_iframe" style="display:none;"></iframe>
+<div id="successNotice" style="display:none;color:green;margin-top:1rem;">Terima kasih — pesan Anda sudah dikirim.</div>
+<div id="errorNotice" style="display:none;color:red;margin-top:1rem;">Terjadi kesalahan saat mengirim. Coba lagi.</div>
 
   </div>
 
@@ -550,6 +553,44 @@
 
     
     <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"page\/6","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxTrustedUrl":{"form_action_p_pvdeGsVG5zNF_XLGPTvYSKCf43t8qZYSwcfZl2uzM":true},"user":{"uid":0,"permissionsHash":"d004ebd9888988230b86609883feaa708c27469403a949ae1c0e9b9d09b5d417"}}</script>
+
+<!-- Simple script to show success message after hidden-iframe POST (used with Google Apps Script Web App) -->
+<script>
+(function(){
+  var form = document.getElementById('webform-submission-contact-form-canvas-page-6-add-form');
+  var hiddenFrame = document.getElementById('hidden_iframe');
+  var success = document.getElementById('successNotice');
+  var error = document.getElementById('errorNotice');
+
+  window.onSubmitForm = function() {
+    if (success) success.style.display = 'none';
+    if (error) error.style.display = 'none';
+    if (form) form._submitting = true;
+    // allow normal POST to hidden iframe
+    return true;
+  };
+
+  if (hiddenFrame) {
+    hiddenFrame.addEventListener('load', function () {
+      if (!form || !form._submitting) return;
+      form._submitting = false;
+      // Can't read cross-origin response; assume success if iframe loaded.
+      if (success) success.style.display = 'block';
+      if (form) form.reset();
+    });
+  }
+
+  // Optional: fallback timeout to show error if iframe doesn't load
+  // setTimeout(function(){
+  //   if (form && form._submitting) {
+  //     form._submitting = false;
+  //     if (error) error.style.display = 'block';
+  //   }
+  // }, 10000);
+
+})();
+</script>
+
 <script src="/core/assets/vendor/jquery/jquery.min.js?v=4.0.0-rc.1"></script>
 <script src="/sites/default/files/js/js_TUpwkwj6YT210I-Je8tVriWelf1YGTPcB-HRle_deBs.js?scope=footer&amp;delta=1&amp;language=en&amp;theme=byte_theme&amp;include=eJyFjUEKwzAMBD8U208KsqI4prIULOGS39eF9pbSyy4Dwy6CDLDkHfCxCoxawKvKgtopobZThcQt5stp9YMahTC1DH3ZeyXZ-EI4HQ9IXw4TmEkKLU_Ku_aWPh2J54B43MihskWD8V9yLYV_a43M4ObrHS-7m1Zp"></script>
 <script src="/core/../themes/contrib/byte_theme/components/navbar/navbar.js?t7mh1l" type="module"></script>
